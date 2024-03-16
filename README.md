@@ -1,4 +1,4 @@
-# Traffic_Sign_Recognition
+# Traffic Sign Recognition
  Artificial Intelligence - Deep Learning Project
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
@@ -7,14 +7,17 @@ Traffic Sign Recognition using Convolutional Neural Networks (CNN) is an applica
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-
----
-
-- **Traffic Sign Classification:** The application can accurately classify various types of traffic signs into predefined categories.
-- **Deep Learning Model:** Utilizes a Convolutional Neural Network (CNN) architecture, which is well-suited for image classification tasks.
-- **Training and Testing:** The model is trained on a labeled dataset containing images of different traffic signs and evaluated using a separate testing dataset to measure its performance.
-- **Accuracy Visualization:** Provides visualizations of training and validation accuracy to assess the model's learning progress over epochs.
-- **User-Friendly Interface:** The application provides a simple and intuitive interface for testing the model on custom images of traffic signs.
+- **Traffic Sign Classification:**
+   <div> The application can accurately classify various types of traffic signs into predefined categories. </div>
+- **Deep Learning Model:**
+   <div> Utilizes a Convolutional Neural Network (CNN) architecture, which is well-suited for image classification tasks. </div>
+- **Training and Testing:**
+  <div> The model is trained on a labeled dataset containing images of different traffic signs and evaluated using a separate testing dataset to measure its performance. </div>
+- **Accuracy Visualization:**
+  <div> Provides visualizations of training and validation accuracy to assess the model's learning progress over epochs. </div>
+- **User-Friendly Interface:**
+   <div> The application provides a simple and intuitive interface for testing the model on custom images of traffic signs. </div>
+   
 ---
 
 ## Technologies Used
@@ -28,5 +31,5 @@ Traffic Sign Recognition using Convolutional Neural Networks (CNN) is an applica
 - **NumPy**
 
 
-
+---
 
