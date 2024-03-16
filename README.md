@@ -1,2 +1,32 @@
 # Traffic_Sign_Recognition
  Artificial Intelligence - Deep Learning Project
+
+[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+Traffic Sign Recognition using Convolutional Neural Networks (CNN) is an application that utilizes deep learning techniques to classify traffic signs from images. This project aims to accurately identify different types of traffic signs commonly found on roads, which can be useful in various real-world applications such as autonomous vehicles, traffic management systems, and driver assistance systems.
+
+[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+
+---
+
+- **Traffic Sign Classification:** The application can accurately classify various types of traffic signs into predefined categories.
+- **Deep Learning Model:** Utilizes a Convolutional Neural Network (CNN) architecture, which is well-suited for image classification tasks.
+- **Training and Testing:** The model is trained on a labeled dataset containing images of different traffic signs and evaluated using a separate testing dataset to measure its performance.
+- **Accuracy Visualization:** Provides visualizations of training and validation accuracy to assess the model's learning progress over epochs.
+- **User-Friendly Interface:** The application provides a simple and intuitive interface for testing the model on custom images of traffic signs.
+---
+
+## Technologies Used
+
+- **Python**
+- **TensorFlow**
+- **Keras**
+- **OpenCV**
+- **Matplotlib**
+- **Pandas**
+- **NumPy**
+
+
+
+
