@@ -29,6 +29,7 @@ Traffic Sign Recognition using Convolutional Neural Networks (CNN) is an applica
 - **Matplotlib**
 - **Pandas**
 - **NumPy**
+- **Flask** 
 
 ---
 ## Image
