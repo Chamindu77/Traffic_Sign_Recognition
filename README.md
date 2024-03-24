@@ -36,7 +36,11 @@ Traffic Sign Recognition using Convolutional Neural Networks (CNN) is an applica
 
 <div style="display: flex; justify-content: space-between;">
  
-![Screenshot 2024-03-18 033302](https://github.com/Chamindu77/Traffic_Sign_Recognition/assets/117502200/d119f598-e0f6-4565-99fa-4dad3e1eaafc)
+
+![Screenshot (1452)](https://github.com/Chamindu77/Traffic_Sign_Recognition/assets/117502200/4a45651d-5b31-41bf-96ef-6cab62812201)
+
+![Screenshot (1453)](https://github.com/Chamindu77/Traffic_Sign_Recognition/assets/117502200/5e490562-7f0d-4b61-a7d6-e7d07ee598ef)
+
 
 <div>
   
